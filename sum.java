@@ -17,7 +17,7 @@ class Sum {
 	}
 	public static void main(String[] args)
 	{
-		int n = 687;
+		int n = 1001089;
 
 		System.out.println(getSum(n));
 	}
