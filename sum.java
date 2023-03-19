@@ -3,8 +3,6 @@
 import java.io.*;
 
 class Sum {
-	
-	/* Function to get sum of digits */
 	static int getSum(int n)
 	{
 		int sum = 0;
@@ -17,8 +15,6 @@ class Sum {
 	
 	return sum;
 	}
-
-	// Driver program
 	public static void main(String[] args)
 	{
 		int n = 687;
@@ -27,4 +23,3 @@ class Sum {
 	}
 }
 
-// This code is contributed by Gitanjali
