@@ -18,8 +18,10 @@ class Sum {
 	public static void main(String[] args)
 	{
 		int n = 1001089;
+		int n2 = 1001089;
 
 		System.out.println(getSum(n));
+        System.out.println(n+n2);
 	}
 }
 
